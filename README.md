@@ -1,5 +1,5 @@
-# Mindset for long run 
-## What is Quality 
+# I. Mindset for long run 
+## 1. What is Quality 
 In this mini-doc, we use the term quality management rather than quality assurance. Information from testing can help improve the quality but can’t “assure” the quality is there. The most popular definition seems to be one from Jerry Weinberg - “Quality is value to some person”. W Edward Deming defined good quality as: “predictable degree of uniformity and dependability with a quality standard suited to the customer”. People talk about quality as if there is only one kind – all encompassing, but it’s not. For example, product quality is about quality of finished product – what our customers experience. When teams try to measure quality, it’s usually about how well they adhere to their processes which is really something different. There are other stakeholders who also have an interest in a product’s quality. There are many lenses in how people view quality.  
 ### Process quality  
 In the development cycle, the emphasis is on the practices followed to build the product. The focus is on defect prevention and limiting rework, and this is often where many teams spend their time building it right and measuring the quality of the process. Many teams target testing in this perspective.  
@@ -10,5 +10,74 @@ Some processes that teams can do to help support product quality are: ATDD (acce
 ### User-based quality  
 The user-based perspective is what is most often used to talk about quality, and it is highly subjective and highly personal. 
  It assumes that consumers possess sufficient information to evaluate product quality. If they do not, they will rely on other cues when making that assessment. Let’s consider a cup of coffee. Some folks prefer a simple black medium roast coffee to a well-made cappuccino, but others take the cappuccino every time. Who is your consumer? Who is evaluating? 
+
+## 2. Team Player 
+### Value: 
+ Detailed-oriented + Independent for end-to-end test + Great verbal_written skills + Technology ambition + Punctual  
+### Character: 
+  Whoever you want to be in the team 
+### Responsible:
+   Product/Process/User-based Quality 
+## 3. Career Path
+### [3 - 6 months] Formal Employee + Project Memmber 
+Able to perform intermediate QA Tasks, Have Responsibility for your own accounts, Meeting with Clients
+### [1 - 2 years] Raises and Continous project experience
+Option 1: Tester --> QA1/2/3 --> QA Lead --> QA Manageer
+Option 2: Tester --> Technical Leader --> Software Architect --> Technical Team Leader --> Corporate SA/Tech Lead
+# II. Capstone 1: Fresher (3-6 mths) [craft skills] 
+## 1. Overall 
+ 
+To become an Advanced QA Engineer, it's crucial to explore advanced testing topics and stay updated with emerging technologies: 
+1. 🌐 Web Services/API Testing: 
+🌐 Testing APIs using Postman and REST Assured: Gain hands-on experience in testing APIs using popular tools like Postman and REST Assured. 
+🚀 API Automation and Validation Techniques: Learn how to automate API tests and validate API responses. 
+2. ♿ Web Accessibility Testing: 
+🌐 Understanding WCAG Guidelines: Learn about the Web Content Accessibility Guidelines (WCAG) and the importance of web accessibility testing. 
+🧭 Using Tools like Axe and Lighthouse for Accessibility Testing: Familiarize yourself with accessibility testing tools like Axe and Lighthouse. 
+3. 🔄 Test Automation Maintenance: 
+🚧 Strategies for Maintaining Automated Test Scripts: Discover best practices for maintaining automated test scripts to reduce flakiness and improve reliability. 
+🎯 Reducing Flakiness and Improving Reliability: Learn techniques to minimize flakiness and improve the stability of your automated tests. 
+4. 🗃️ Test Data Management: 
+📝 Creating and Managing Test Data: Understand the importance of test data and how to manage it effectively for different test scenarios. 
+🎲 Data-Driven Testing Approaches: Explore data-driven testing approaches to optimize your test coverage. 
+5. 🌌 Emerging Technologies: 
+🤖 AI/ML Testing Applications: Discover the role of Artificial Intelligence and Machine Learning in software testing. 
+🌐 IoT Testing Challenges and Solutions: Learn about the unique challenges of testing Internet of Things (IoT) devices and systems. 
+
+## 2. Skills Training Plan
+- Environment: Shadow Position + Mentor + Team Support 
+- Common Weekly Tasks:  
+Basic Agile SDLC + Test Suite Writing + Regression/Functional/Smoke Test Executing + Test Script Writing/Integration + Bug Investigate/Raise/Closed + Requirement Analyze + Self-study Automation Skills 
+- Focal of phase 1 [3 months 4/2024 - 7/2024] is crafted auto skills by tool listed on the table below 
+
+- Focal of phase 1 [3 months 4/2024 - 7/2024] is on project experience with these responsibilities:  
+Well-prepare for Clients interview, Hone Test Management Skills, Take full-responsibility for Manual Tasks. Illustrate by the Holistic Testing Model Graphic: 
+
+## 3. Better Reference Better Performance 
+### Overall 
+     	-  Testing Bible: Smoke Testing - javatpoint 
+      	- Testing Interview Question Bank: Software Testing Core.xlsx (sharepoint.com) 
+### Communication 
+- SDLC: UAT/Deployment,
+- Interview: PET TRAINING Summary.docx (sharepoint.com) 
+- Good friend: I used to watch TV series “SUIT” 
+### Manual  
+- Folder: Readme_Manual (sharepoint.com) 
+- Label status while execute 
+- Investigate bug by all 3 layers 
+- Keep in mind while write TCs:  readable, execute regression and smoke  
+- Leverage test design skills by execute regression test case (GUI, Functional, API, Data, Performance...) 
+- After Production Smoke Test --> Hotfix --> Bug Deployment 
+### Automation 
+- Collaborate with Git: Gitflow Workflow | Atlassian Git Tutorial 
+- Leverage Back-end Testing: Readme Backend Testing (sharepoint.com) 
+- Check the automation set-up plan after UAT or deployment 
+### Performance 
+P/s: Detail components to master or discuss and methodology to craft skills are all here 
+
+
+
+
+
 
 
