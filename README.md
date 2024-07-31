@@ -55,8 +55,8 @@ Well-prepare for Clients interview, Hone Test Management Skills, Take full-respo
 
 ## 3. Better Reference Better Performance 
 ### Overall 
-     	-  Testing Bible: Smoke Testing - javatpoint 
-      	- Testing Interview Question Bank: Software Testing Core.xlsx (sharepoint.com) 
+- Testing Bible: Smoke Testing - javatpoint 
+- Testing Interview Question Bank: Software Testing Core.xlsx (sharepoint.com) 
 ### Communication 
 - SDLC: UAT/Deployment,
 - Interview: PET TRAINING Summary.docx (sharepoint.com) 
@@ -75,6 +75,22 @@ Well-prepare for Clients interview, Hone Test Management Skills, Take full-respo
 ### Performance 
 P/s: Detail components to master or discuss and methodology to craft skills are all here 
 
+#II. Capstone 2: QA2 (1 - 2 yrs) [continuous proj] 
+
+ 
+ 
+## Real-world Project: Advanced QA Engineer Skills 
+Quality is woven into the fabric, Figure 5 is a great visual that goes along with phrase of “Building quality in”. In this capstone, Quality Strategy is the ultimate responsibility, we have testing supports the quality discussion for both products and process quality. 
+ 
+The left side of the loop shows testing done early in the cycle. It creates shared understanding that guides development and prevents defects. The right side of the loop is about what has been built, and finding defects that escaped the build process. It’s also for learning from customer usage and gathering data to help plan the next changes.  
+Recommend an approach for improve your QA skills as Bottom-up and Big Bag Approach restrict by SDLC project experience. Make sure you have continuous project experience for at least a year to have an evaluation for below task: 
++  TCs Writing: Faster, Better Bug Coverage, Re-usable 
++ Collaborate: More Convincible, Reasonable, Reliable 
++ Test Plan/Management: Right Time, Right People, Right Method, Right Words 
++ Trouble Shooting and Problem Solving: Need less support 
+ 
+## Mentor Role 
+People reach out to you for help with your technical and management problem
 
 
 
