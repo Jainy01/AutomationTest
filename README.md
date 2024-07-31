@@ -28,7 +28,10 @@ Option 2: Tester --> Technical Leader --> Software Architect --> Technical Team 
 ## 1. Overall 
 
 ![alt text](https://media.licdn.com/dms/image/D5612AQGo4OMGk7eWPg/article-cover_image-shrink_720_1280/0/1691292641299?e=2147483647&v=beta&t=mCTWr1DG6qfMXus308cIt5eBEREKV4_o5Nfe2n0MHK4)
-To become an Advanced QA Engineer, it's crucial to explore advanced testing topics and stay updated with emerging technologies: 
+
+Hand-on experience in Foundation Level, Testing Types and Technique, Test Automation Framework and Test Metrics and Reporting considers as intermediate level. In my company, these topics is covered in probation review meeting. 
+
+For your advanced in client interview meeting, set motion to be Advanced QA Engineer is crucial. Here is some approach to advanced testing topics and stay updated with emerging technologies: 
 1. 🌐 Web Services/API Testing: 
 🌐 Testing APIs using Postman and REST Assured: Gain hands-on experience in testing APIs using popular tools like Postman and REST Assured. 
 🚀 API Automation and Validation Techniques: Learn how to automate API tests and validate API responses. 
