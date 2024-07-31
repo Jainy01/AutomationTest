@@ -26,6 +26,7 @@ Option 1: Tester --> QA1/2/3 --> QA Lead --> QA Manageer
 Option 2: Tester --> Technical Leader --> Software Architect --> Technical Team Leader --> Corporate SA/Tech Lead
 # II. Capstone 1: Fresher (3-6 mths) [craft skills] 
 ## 1. Overall 
+
 ![alt text](https://media.licdn.com/dms/image/D5612AQGo4OMGk7eWPg/article-cover_image-shrink_720_1280/0/1691292641299?e=2147483647&v=beta&t=mCTWr1DG6qfMXus308cIt5eBEREKV4_o5Nfe2n0MHK4)
 To become an Advanced QA Engineer, it's crucial to explore advanced testing topics and stay updated with emerging technologies: 
 1. 🌐 Web Services/API Testing: 
