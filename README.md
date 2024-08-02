@@ -22,8 +22,8 @@ The user-based perspective is what is most often used to talk about quality, and
 ### [3 - 6 months] Formal Employee + Project Memmber 
 Able to perform intermediate QA Tasks, Have Responsibility for your own accounts, Meeting with Clients
 ### [1 - 2 years] Raises and Continous project experience
-Option 1: Tester --> QA1/2/3 --> QA Lead --> QA Manageer
-Option 2: Tester --> Technical Leader --> Software Architect --> Technical Team Leader --> Corporate SA/Tech Lead
+- Option 1: Tester --> QA1/2/3 --> QA Lead --> QA Manageer
+- Option 2: Tester --> Technical Leader --> Software Architect --> Technical Team Leader --> Corporate SA/Tech Lead
 # II. Capstone 1: Fresher (3-6 mths) [craft skills] 
 ## 1. Overall 
 
@@ -33,20 +33,20 @@ Hand-on experience in Foundation Level, Testing Types and Technique, Test Automa
 
 For your advanced in client interview meeting, set motion to be Advanced QA Engineer is crucial. Here is some approach to advanced testing topics and stay updated with emerging technologies: 
 1. 🌐 Web Services/API Testing: 
-🌐 Testing APIs using Postman and REST Assured: Gain hands-on experience in testing APIs using popular tools like Postman and REST Assured. 
-🚀 API Automation and Validation Techniques: Learn how to automate API tests and validate API responses. 
+- Testing APIs using Postman and REST Assured: Gain hands-on experience in testing APIs using popular tools like Postman and REST Assured. 
+- API Automation and Validation Techniques: Learn how to automate API tests and validate API responses. 
 2. ♿ Web Accessibility Testing: 
-🌐 Understanding WCAG Guidelines: Learn about the Web Content Accessibility Guidelines (WCAG) and the importance of web accessibility testing. 
-🧭 Using Tools like Axe and Lighthouse for Accessibility Testing: Familiarize yourself with accessibility testing tools like Axe and Lighthouse. 
+- Understanding WCAG Guidelines: Learn about the Web Content Accessibility Guidelines (WCAG) and the importance of web accessibility testing. 
+- Using Tools like Axe and Lighthouse for Accessibility Testing: Familiarize yourself with accessibility testing tools like Axe and Lighthouse. 
 3. 🔄 Test Automation Maintenance: 
-🚧 Strategies for Maintaining Automated Test Scripts: Discover best practices for maintaining automated test scripts to reduce flakiness and improve reliability. 
-🎯 Reducing Flakiness and Improving Reliability: Learn techniques to minimize flakiness and improve the stability of your automated tests. 
+- Strategies for Maintaining Automated Test Scripts: Discover best practices for maintaining automated test scripts to reduce flakiness and improve reliability. 
+- Reducing Flakiness and Improving Reliability: Learn techniques to minimize flakiness and improve the stability of your automated tests. 
 4. 🗃️ Test Data Management: 
-📝 Creating and Managing Test Data: Understand the importance of test data and how to manage it effectively for different test scenarios. 
-🎲 Data-Driven Testing Approaches: Explore data-driven testing approaches to optimize your test coverage. 
+- Creating and Managing Test Data: Understand the importance of test data and how to manage it effectively for different test scenarios. 
+- Data-Driven Testing Approaches: Explore data-driven testing approaches to optimize your test coverage. 
 5. 🌌 Emerging Technologies: 
-🤖 AI/ML Testing Applications: Discover the role of Artificial Intelligence and Machine Learning in software testing. 
-🌐 IoT Testing Challenges and Solutions: Learn about the unique challenges of testing Internet of Things (IoT) devices and systems. 
+- AI/ML Testing Applications: Discover the role of Artificial Intelligence and Machine Learning in software testing. 
+- IoT Testing Challenges and Solutions: Learn about the unique challenges of testing Internet of Things (IoT) devices and systems. 
 
 ## 2. Skills Training Plan
 - Environment: Shadow Position + Mentor + Team Support 
@@ -61,23 +61,29 @@ Well-prepare for Clients interview, Hone Test Management Skills, Take full-respo
 ### Overall 
 - Testing Bible: Smoke Testing - javatpoint 
 - Testing Interview Question Bank: Software Testing Core.xlsx (sharepoint.com) 
-### Communication 
+### Communication/Managment
 - SDLC: UAT/Deployment,
 - Interview: PET TRAINING Summary.docx (sharepoint.com) 
 - Good friend: I used to watch TV series “SUIT” 
-### Manual  
-- Folder: Readme_Manual (sharepoint.com) 
+
+* Theory and Principle to optimize your work here
+### Manual Testing 
+- Folder: Readme_Manual (sharepoint.com)  
 - Label status while execute 
 - Investigate bug by all 3 layers 
 - Keep in mind while write TCs:  readable, execute regression and smoke  
 - Leverage test design skills by execute regression test case (GUI, Functional, API, Data, Performance...) 
 - After Production Smoke Test --> Hotfix --> Bug Deployment 
-### Automation 
+* Process, and tools to find and fix more bug here
+
+### Automation Testing
 - Collaborate with Git: Gitflow Workflow | Atlassian Git Tutorial 
 - Leverage Back-end Testing: Readme Backend Testing (sharepoint.com) 
 - Check the automation set-up plan after UAT or deployment 
+
+* Syllabus for utilize automation tools here
 ### Performance 
-P/s: Detail components to master or discuss and methodology to craft skills are all here 
+
 
 #II. Capstone 2: QA2 (1 - 2 yrs) [continuous proj] 
 
